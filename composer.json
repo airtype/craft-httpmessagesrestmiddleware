@@ -1,6 +1,9 @@
 {
-    "name": "airtype/httpmessagesrestmiddleware",
+    "name": "airtype/craft-httpmessagesrestmiddleware",
     "type": "craft-plugin",
+    "extra": {
+        "installer-name": "httpmessages"
+    },
     "authors": [
         {
             "name": "Wes Rice",
